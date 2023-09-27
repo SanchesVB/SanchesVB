@@ -1,8 +1,6 @@
 ### Hi there 👋 my name is Alexander
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 <!--
 **SanchesVB/SanchesVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
