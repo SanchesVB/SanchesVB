@@ -16,8 +16,25 @@
   <img src="https://komarev.com/ghpvc/?username=SanchesVB&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/l1J9Ij5N0YKKxMNos/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/l1J9Ij5N0YKKxMNos/giphy-downsized.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: Обо мне:
+
+Меня зовут Александр, и я стремлюсь к профессиональному росту в области аналитики данных. Я стараюсь быть в курсе новых трендов и методов в этой области, чтобы использовать их в своей работе. В процессе работы я ценю возможность сотрудничать с коллегами и обмениваться опытом. Моя долгосрочная цель – стать высококвалифицированным аналитиком данных и создавать решения, которые будут полезны для общества и бизнеса.
+
+----
+### :hammer_and_wrench: Мой стек технологий :
+
+<div>
+  <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white" title="Python" alt="Python" width="150" height="50"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-darkblue?logo=PostgreSQL&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="150" height="50"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-green?" title="Excel" alt="Excel" width="150" height="50"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-darkblue?logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="150" height="50"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google%20analytics-orange?logo=google%20analytics&logoColor=white" title="Google analytics" alt="Google analytics" width="200" height="50"/>&nbsp;
 </div>
 
 
