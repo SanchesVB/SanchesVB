@@ -1,7 +1,7 @@
-
+### Привет,  меня зовут Александр!
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="600"/>
 </div>
 
 
