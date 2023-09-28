@@ -1,6 +1,8 @@
 ### Hi there 👋 my name is Alexander
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="100"/>
+</div>
 
 <!--
 **SanchesVB/SanchesVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
