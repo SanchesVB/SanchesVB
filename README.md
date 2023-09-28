@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="700" height="300"/>
+  <img src="https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif" width="500" height="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/Tableau-darkblue?logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="150" height="50"/>&nbsp;
   <img src="https://img.shields.io/badge/Google%20analytics-orange?logo=google%20analytics&logoColor=white" title="Google analytics" alt="Google analytics" width="200" height="50"/>&nbsp;
 </div>
+
+---
+### :fire: Статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanchesVB&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
