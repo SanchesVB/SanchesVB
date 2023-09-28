@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Alexander
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="1000"/>
 </div>
 
 <!--
