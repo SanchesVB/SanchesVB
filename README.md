@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif" width="500" height="200"/>
 </div>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <div id="badges" align="center">
   <a href="https://vk.com/id201653873">
     <img src="https://img.shields.io/badge/VK.com-blue?logo=VK&logoColor=white" alt="VK Badge"/>
