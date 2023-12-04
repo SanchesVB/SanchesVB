@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif" width="500" height="200"/>
 </div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div id="badges" align="center">
   <a href="https://vk.com/id201653873">
