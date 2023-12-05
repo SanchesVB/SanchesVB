@@ -1,6 +1,6 @@
 ![s21](https://github.com/SanchesVB/SanchesVB/blob/main/s21.png)
 
-![s21](https://github.com/SanchesVB/blob/main/Школа_21.png)
+![s21](https://github.com/SanchesVB/SanchesVB/blob/main/Школа_21.png)
 
 
 <div id="header" align="center">
