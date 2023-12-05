@@ -1,13 +1,7 @@
-![s21](https://github.com/SanchesVB/SanchesVB/blob/main/s21.png)
-
 <div id="header" align="center">
-  <img src="https://github.com/SanchesVB/SanchesVB/blob/main/s21.png" width="500" height="200"/>
+  <img src="https://github.com/SanchesVB/SanchesVB/blob/main/s21.png" width="1000" height="450"/>
 </div>
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2vN72ia7o9FWOxN8IL/giphy.gif" width="500" height="200"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://vk.com/id201653873">
@@ -23,10 +17,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l1J9Ij5N0YKKxMNos/giphy-downsized.gif" width="600" height="300"/>
-</div>
 
 ### :man_technologist: Обо мне:
 
