@@ -43,6 +43,11 @@
 
 
 
+![Snake animation](https://github.com/SanchesVB/SanchesVB/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 <!--
 **SanchesVB/SanchesVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
