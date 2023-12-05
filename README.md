@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/SanchesVB/SanchesVB/blob/main/s21.png" width="750" height="350"/>
+  <img src="https://github.com/SanchesVB/SanchesVB/blob/main/s21.png" width="550" height="350"/>
 </div>
 
 
